@@ -1,0 +1,5 @@
+.vscode
+.history
+
+#add node js
+node_modules/
